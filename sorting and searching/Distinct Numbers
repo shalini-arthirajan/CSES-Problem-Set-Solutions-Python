@@ -1,6 +1,0 @@
-# this solution did not pass test#13 as it exceeded the time but I don't think the code can be optimised further in python
-
-n = int(input())
-nums = map(int, input().split())
- 
-print(len(set(nums)))
